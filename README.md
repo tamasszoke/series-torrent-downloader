@@ -8,7 +8,7 @@ and downloads it. You can setup to start automatically with windows.
 1. Change the predefined series, run the script
 2. First use setup (the script will ask)
    - Install `KTorrent` torrent client (recommended)
-   - Start with windows (optional)
+   - Launch at startup (optional)
    - Creates `downloaded.txt` to store downloaded episodes
 3. Search and download
 
